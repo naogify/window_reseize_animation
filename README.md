@@ -1,2 +1,2 @@
-# shikumi-zukuril.com
-coder for shikumi-zukuril.com
+# shikumi-zukuri.com
+coder for shikumi-zukuri.com
