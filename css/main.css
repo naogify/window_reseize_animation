@@ -1,0 +1,82 @@
+/*! HTML5 Boilerplate v5.3.0 | MIT License | https://html5boilerplate.com/ */
+
+/*
+ * What follows is the result of much research on cross-browser styling.
+ * Credit left inline and big thanks to Nicolas Gallagher, Jonathan Neal,
+ * Kroc Camen, and the H5BP dev community and team.
+ */
+
+/* ==========================================================================
+   Base styles: opinionated defaults
+   ========================================================================== */
+
+html, body{
+    height: 100%;
+    color: #222;
+    font-size: 1em;
+    line-height: 1.4;
+    font-family: "游明朝", YuMincho, "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN", "HG明朝E", "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+}
+li{
+  list-style: none;
+}
+a{
+  color: #222;
+  text-decoration: none;
+}
+a:hover{
+  color:#999999;
+}
+header{
+  width: 20%;
+  height: 100%;
+  position: fixed;
+  top: 0px;
+  right: 0px;
+  background-color: #ffffff;
+}
+section{
+  width: 80%;
+  padding: 140px 0;
+}
+section div{
+  padding: 30px;
+}
+section img{
+  width: 250px;
+  height: 250px;
+}
+section ul{
+  width: 500px%;
+}
+.flex-center{
+  display: -webkit-flex; /* Safari */
+  display: flex;
+  -webkit-flex-direction: column; /* Safari */
+  flex-direction: column;
+  -webkit-justify-content: center; /* Safari*/
+  justify-content: center;
+  -webkit-align-items: center; /* Safari */
+  align-items: center;
+}
+.title_large{
+  letter-spacing: 2px;
+  font-size: 30px;
+  font-weight: 100;
+}
+.title_middle{
+  letter-spacing: 2px;
+  font-size: 20px;
+  font-weight: 100;
+}
+.title_small{
+
+}
+#footer{
+  -webkit-align-items: bottom; /* Safari */
+  align-items: bottom;
+  padding-bottom: 0;
+}
+#footer div{
+  padding: 20px;
+}
