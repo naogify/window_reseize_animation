@@ -55,7 +55,7 @@ section img{
   height: 250px;
 }
 section ul{
-  width: 500px%;
+  padding:0 10%;
 }
 .flex-center{
   display: -webkit-flex; /* Safari */
