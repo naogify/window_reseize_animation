@@ -13,6 +13,9 @@
   header{
     display: none !important;
   }
+  section{
+    width: 100% !important;
+  }
 }
 
 html, body{
