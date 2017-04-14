@@ -1,20 +1,12 @@
-/*! HTML5 Boilerplate v5.3.0 | MIT License | https://html5boilerplate.com/ */
-
-/*
- * What follows is the result of much research on cross-browser styling.
- * Credit left inline and big thanks to Nicolas Gallagher, Jonathan Neal,
- * Kroc Camen, and the H5BP dev community and team.
- */
-
-/* ==========================================================================
-   Base styles: opinionated defaults
-   ========================================================================== */
 @media (max-width: 1024px){
   nav{
     display: none !important;
   }
   .width{
     width: 100% !important;
+  }
+  .width_text{
+    width: 80%;
   }
 }
 html, body{
@@ -24,7 +16,7 @@ html, body{
     color: #222;
     font-size: 1em;
     line-height: 1.4;
-    font-family: "游明朝", YuMincho, "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN", "HG明朝E", "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+    font-family: serif;
 }
 ul{
   padding: 0;
@@ -61,7 +53,7 @@ footer div{
   width: 80%;
 }
 .width_text{
- width: 80%;
+
 }
 .padding{
   padding: 100px 0;
