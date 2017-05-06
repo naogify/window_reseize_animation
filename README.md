@@ -1,3 +1,2 @@
-# shikumi-zukuri.com
-coder for shikumi-zukuri.com <br>
-https://shikumi-zukuri.com/
+# ウィンドウリサイズアニメーション
+ウィンドウ幅を変化させることで、パラパラ漫画のようにアニメーションさせます。
